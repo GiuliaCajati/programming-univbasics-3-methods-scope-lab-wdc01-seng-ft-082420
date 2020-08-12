@@ -18,8 +18,6 @@ end
 
 #4 Define a Method That Calls mario, toadstool, and link
 def all_phrases ()
-  puts mario
-  puts toadstool
-  puts link
+  puts phrase
 end
   
